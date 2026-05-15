@@ -66,9 +66,9 @@ Goal:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kingbenny143&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kingbenny143&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingbenny143&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingbenny143&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 
 </div>
 
@@ -78,7 +78,7 @@ Goal:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kingbenny143&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=kingbenny143&theme=tokyonight&hide_border=true"/>
 
 </div>
 
