@@ -104,7 +104,7 @@ Goal:
 
 <!-- Add Instagram -->
 <!--
-<a href="YOUR_INSTAGRAM_LINK">
+<a href="https://www.instagram.com/_.itsanishraj._404?igsh=OG9mZ28xM25lMDli">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 -->
