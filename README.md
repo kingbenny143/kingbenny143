@@ -39,6 +39,7 @@ Languages:
 Tools:
   - Git
   - Linux
+  - Kali Linux
   - VS Code
 
 Goal:
@@ -52,6 +53,10 @@ Goal:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,bash,git,linux,vscode&perline=6" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Kali%20Linux-1793D1?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
 </div>
 
@@ -118,6 +123,12 @@ Anish Raj Anand
 Cybersecurity
 Artificial Intelligence
 Full Stack Development
+
+> tools
+Kali Linux
+Linux
+Git
+VS Code
 
 > current_status
 Learning & Building...
