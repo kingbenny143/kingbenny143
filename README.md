@@ -2,7 +2,7 @@
 
 # 👨‍💻 Anish Raj Anand
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🔐+Cybersecurity+Enthusiast;🤖+AI+%26+ML+Student;💻+Frontend+Developer;⚛️+Learning+React.js;🐧+Linux+%26+Bash+Lover;🚀+Future+Tech+Innovator" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🔐+Cybersecurity+Enthusiast;🤖+AI+%26+ML+Student;💻+Full+Stack+Developer;🚀+Future+Tech+Innovator;⚡+Building+Cool+Projects" />
 
 <br>
 
@@ -16,15 +16,16 @@
 
 ```yaml
 Name: Anish Raj Anand
+
 Focus:
   - Cybersecurity
   - AI & Machine Learning
-  - Web Development
+  - Full Stack Development
 
 Currently Learning:
-  - React.js
-  - Advanced JavaScript
-  - Security Concepts
+  - Full Stack Development
+  - AI & ML
+  - Cybersecurity
 
 Languages:
   - HTML
@@ -35,11 +36,13 @@ Languages:
   - C
   - Bash
 
-OS:
-  - Linux 🐧
+Tools:
+  - Git
+  - Linux
+  - VS Code
 
 Goal:
-  - Build powerful AI & cybersecurity projects
+  - Build impactful AI & cybersecurity projects
 ```
 
 ---
@@ -80,8 +83,8 @@ Goal:
 
 <div align="center">
 
-| 🔐 Cybersecurity | 🤖 AI/ML | ⚛️ React.js | 🐧 Linux |
-|---|---|---|---|
+| 🔐 Cybersecurity | 🤖 AI & ML | 🌐 Full Stack Development |
+|---|---|---|
 
 </div>
 
@@ -95,26 +98,9 @@ Goal:
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<!-- Add LinkedIn -->
-<!--
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
--->
-
-<!-- Add Instagram -->
-<!--
-<a href="https://www.instagram.com/_.itsanishraj._404?igsh=OG9mZ28xM25lMDli">
+<a href="https://www.instagram.com/_.itsanishraj._404">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
--->
-
-<!-- Add Twitter/X -->
-<!--
-<a href="YOUR_X_LINK">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
--->
 
 </div>
 
@@ -131,11 +117,10 @@ Anish Raj Anand
 > interests
 Cybersecurity
 Artificial Intelligence
-Frontend Development
-Linux
+Full Stack Development
 
 > current_status
-Learning React.js...
+Learning & Building...
 
 > life_goal
 Build impactful tech projects 🚀
