@@ -53,7 +53,7 @@ Goal:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,bash,git,linux,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,bash,git,linux,vscode,sql&perline=6" />
 
 <br><br>
 
