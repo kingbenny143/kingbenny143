@@ -35,6 +35,7 @@ Languages:
   - Java
   - C
   - Bash
+  - SQL
 
 Tools:
   - Git
