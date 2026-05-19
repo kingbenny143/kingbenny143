@@ -56,7 +56,7 @@ Goal:
   <br><br>
 
   <img src="https://img.shields.io/badge/Kali%20Linux-1793D1?style=for-the-badge&logo=kalilinux&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+  
 </div>
 
 ---
